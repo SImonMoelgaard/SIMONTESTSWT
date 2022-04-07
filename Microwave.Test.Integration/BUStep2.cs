@@ -21,7 +21,7 @@ namespace Microwave.Test.Integration
         //
         private UserInterface ui;
         private Light light;
-
+        //
         private IButton powerButton;
         private IButton timeButton;
         private IButton startCancelButton;
