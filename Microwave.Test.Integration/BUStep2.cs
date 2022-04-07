@@ -18,7 +18,7 @@ namespace Microwave.Test.Integration
         private Display display;
         private PowerTube powerTube;
         private CookController cooker;
-
+        //
         private UserInterface ui;
         private Light light;
 
